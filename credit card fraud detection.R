@@ -38,7 +38,7 @@ acc#85.7
 
 
 
-ttach(train)
+attach(train)
 
 Famous=as.factor(df$Famous)
 #Decision tree
