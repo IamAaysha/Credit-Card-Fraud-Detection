@@ -43,14 +43,9 @@ class package for KNN
 
 How to Run the Project
 Clone the repository:
-sh
-Copy
-Edit
 git clone <repo-link>
+
 Open the R script and update the dataset path:
-r
-Copy
-Edit
 df <- read.csv("path/to/creditcardProject.csv")
 Run the script to train models and evaluate predictions.
 
