@@ -18,12 +18,15 @@ Removed unnecessary columns.
 Used 80-20 train-test split with the caTools package.
 Ensured a balanced distribution of fraudulent and non-fraudulent transactions in both sets.
 3. Model Training & Evaluation
+   
 🔹 Logistic Regression
 Built a Logistic Regression model to classify transactions.
 Evaluated model performance using summary statistics.
+
 🔹 K-Nearest Neighbors (KNN)
 Implemented a KNN model with k=21.
 Achieved 85.7% accuracy on test data.
+
 🔹 Decision Tree
 Built a Decision Tree model using the C50 package.
 Predicted fraudulent transactions and calculated accuracy (85.75%).
